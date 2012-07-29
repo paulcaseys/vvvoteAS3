@@ -5,6 +5,9 @@ DATE: JULY 11, 2012
 ACTIONSCRIPT VERSION: 3.0 (AS2 version is available upon request)
 UPDATES & MORE DETAILED DOCUMENTATION AT: http://vvvote.com 
 
+GITHUB: 
+https://github.com/paulcaseys/vvvoteAS3
+
 DESCRIPTION: 
 
 vvvote is a secure, managable voting system. 
